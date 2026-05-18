@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/0KSGC3T.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Video Walkthrough](https://i.imgur.com/0KSGC3T.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with MacOS' built-in screen recorder, converted via Adobe Express.
