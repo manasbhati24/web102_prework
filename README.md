@@ -30,7 +30,7 @@ GIF created with MacOS' built-in screen recorder, converted via Adobe Express.
 
 ## Notes
 
-No challenges; the instructions were pretty clear.
+No challenges; the instructions were pretty clear. The GIF, however, doesn't seem to appear on the GitHub's display of the README file even after multiple tries.
 
 ## License
 
